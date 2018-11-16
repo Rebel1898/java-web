@@ -135,6 +135,18 @@ public class DBDD {
 
 		
 	}
+
+	public int insertahabitacion(Room nuevoroom) {
+		// TODO Auto-generated method stub
+		int nuevoId=0;
+		
+		nuevoId=this.habitaciones.size()+1;
+		nuevoroom.setHid(nuevoId);
+		this.habitaciones.add(nuevoroom);
+		
+		
+		return nuevoId;
+	}
 	
 	
 	

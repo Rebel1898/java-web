@@ -1,0 +1,26 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+<h1>Genera tu nueva habitacion</h1>
+
+<input type="text" placeholder="Set your street" value="" name="street" id="street"  >
+
+<input type="text" placeholder="Set your street" value="" name="street" id="street"  >
+
+
+<div class="error" style="color:red;">${emailrecibido2} </div><p>
+<input type="text" placeholder="Set your email" value="${emailrecibido}" name="email" id="email" ></p>
+
+<p ><input type="password" placeholder="Set yout password" name="password1" id="password" ></p>
+<p ><input type="password" placeholder="Repeat yout password" name="password2" id="password" ></p>
+
+
+</body>
+</html>

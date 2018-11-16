@@ -53,8 +53,27 @@ public class Newuserservlett extends HttpServlet {
 		String emailnur = request.getParameter("email");
 		String passwordnur1 = request.getParameter("password1");
 		String passwordnur2 = request.getParameter("password2");
+		String habitacionesr= request.getParameter("habitacion");
+		
+        int habitacionesnur=0;
 
-		Usuario nuevoUser = new Usuario(0, usernamenur, emailnur, null, passwordnur1);
+		
+		   try {
+			   habitacionesnur= Integer.parseInt(habitacionesr);	
+	        }
+	        catch (Exception e) {
+	        	
+	        	System.out.println("Exception" + e.getMessage());
+				
+				this.doGet(request, response);
+
+	        	
+	        }
+		
+		
+		
+		
+		Usuario nuevoUser = new Usuario(0, usernamenur, emailnur, DBDD.getinstance().getHabitacionbyhid(habitacionesnur), passwordnur1);
 
 		// if((emailnur!=null)&&(!emailnur.equals(""))&&(emailnur.indexOf("@")>0)) { }
 		if (nuevoUser.esValido(passwordnur2)==true) {
