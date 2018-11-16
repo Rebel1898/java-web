@@ -1,0 +1,28 @@
+<%@page import="com.sls.models.Usuario" %>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+    
+ <% Usuario elUsuario =(Usuario)request.getAttribute("elUsuario");%>
+    
+    $(requestScope.elUsuario)
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<h1>Incrustadatos de usuario </h1>
+
+<ul>
+<li>Id:<%=elUsuario.id %>
+</li>
+<li>Nombre:<%=elUsuario.name %></li>/*$.(Requestscope.elUsuario.name) //Y a cambio puedes quitar toda la paja previa.hay que añadir getters and setters en el modelo.
+<li>Email:<%=elUsuario.email %></li>
+
+
+
+
+</ul>
+</body>
+</html>

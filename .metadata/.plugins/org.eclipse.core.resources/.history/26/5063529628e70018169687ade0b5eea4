@@ -1,0 +1,11 @@
+package com.sls.database;
+
+import java.util.ArrayList;
+
+public class BBDB {
+
+	public ArrayList<Usuario> usuario;
+	
+	
+	
+}

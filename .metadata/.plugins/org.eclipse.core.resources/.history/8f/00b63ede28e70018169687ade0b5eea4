@@ -1,0 +1,15 @@
+package com.sls.database;
+
+import java.util.ArrayList;
+import com.sls.models.Usuario;
+import com.sls.models.Room;
+
+
+public class BBDB {
+
+	public ArrayList<Usuario> usuario = new ArrayList<Usuario>() ;
+	public ArrayList<Room> room = new ArrayList<Room>() ;
+
+	
+	
+}

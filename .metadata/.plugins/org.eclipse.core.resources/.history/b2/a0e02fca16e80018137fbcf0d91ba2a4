@@ -1,0 +1,10 @@
+console.log("logout")
+
+
+document.getelementbyId('volver').onclick=function(){
+	
+	
+	window.History.back();
+	
+	
+}

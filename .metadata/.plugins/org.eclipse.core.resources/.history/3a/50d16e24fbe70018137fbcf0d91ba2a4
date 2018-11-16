@@ -1,0 +1,50 @@
+package com.sls.controllers;
+
+import java.io.IOException;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+/**
+ * Servlet implementation class Loginservlett
+ */
+@WebServlet("/Login")
+public class Loginservlett extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+       
+  
+    public Loginservlett() {
+        super();
+      
+    }
+
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+	      
+		request.getRequestDispatcher("./login.jsp").forward(request,response);
+	
+	}		
+	
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+
+		String emailr=request.getParameter("email");
+		String passwordr=request.getParameter("password");
+
+		System.out.println("Estoy en el post "+ emailr +" "+ passwordr);
+		
+		if(emailr.equals("pepe@grr.la")&&(passwordr.equals("pepe"))){ 
+			
+			request.getRequestDispatcher("./listado").forward(request, response);
+			
+			/*La otra forma es un response.sendredirect("/listausuarios") Uno deja ver la direccion y el otro no*/
+		}
+		
+		
+		else { 
+			request.setAttribute("error", "Usuario y contraseña no existe");
+			this.doGet(request,response);
+		}
+}
+
+}

@@ -1,0 +1,445 @@
+
+nov. 12, 2018 14:05:30.33 NEW SESSION
+nov. 12, 2018 14:05:30.33 [Parent 4972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 12, 2018 14:05:30.34 [Child 8784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 12, 2018 14:09:44.09 [Child 8784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/i[Parent 4972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 12, 2018 14:09:44.09 [Child 7000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 12, 2018 14:09:44.50 [Child 7000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/b[Parent 4972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 12, 2018 14:09:44.51 [Child 4660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 12, 2018 14:10:03.11 [Child 4660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ip[Parent 4972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 12, 2018 14:10:03.12 [Child 176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 12, 2018 14:10:03.13 [Child 176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+nov. 13, 2018 09:20:46.07 NEW SESSION
+nov. 13, 2018 09:20:46.07 [Parent 5368, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 13, 2018 09:20:46.09 [Child 6848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+nov. 13, 2018 10:57:16.70 NEW SESSION
+nov. 13, 2018 10:57:16.70 [Parent 9824, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 13, 2018 10:57:16.70 [Child 8044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 13, 2018 10:57:16.71 [Child 8044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 13, 2018 10:57:16.72 [Child 8024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 13, 2018 10:57:16.72 [Child 8024, Chrome_ChildThread] WARNING: pipe err[Parent 9824, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 13, 2018 10:57:16.73 [Parent 9824, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 13, 2018 10:57:16.73 [Child 8148, Chrome_ChildThread] WARN
+nov. 13, 2018 10:57:16.74 ###!!! [Parent][MessageChannel] Error: (msgtype=0x190091,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+nov. 13, 2018 10:57:16.74 
+nov. 13, 2018 10:57:16.75 ING:
+nov. 13, 2018 10:57:16.75 ###!!! [Parent][MessageChannel] Error: (msgtype=0x190084,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+nov. 13, 2018 10:57:16.76 
+nov. 13, 2018 10:57:16.76  pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 13, 2018 10:57:16.77 
+nov. 13, 2018 10:57:16.77 ###!!! [Child][MessageChannel] Error: (msgtype=0x300116,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+nov. 13, 2018 10:57:16.77 
+nov. 13, 2018 10:57:16.81 
+nov. 13, 2018 10:57:16.82 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 13, 2018 10:57:16.82 
+nov. 13, 2018 10:57:16.83 [GPU 10128, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 13, 2018 10:57:16.83 
+nov. 13, 2018 10:57:16.84 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 13, 2018 10:57:16.84 
+nov. 13, 2018 11:13:52.61 [Parent 5016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 13, 2018 11:13:52.62 [Child 1572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 13, 2018 11:51:31.46 [Child 1572, Chrome_ChildThread] WARNING[Parent 5016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 13, 2018 11:51:31.47 [Child 9244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 13, 2018 11:53:22.89 [Child 9244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chrom[Parent 5016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 13, 2018 11:53:22.89 
+nov. 13, 2018 11:53:22.90 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 13, 2018 11:53:22.90 
+nov. 13, 2018 11:53:22.91 [Child 3704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/s
+nov. 13, 2018 11:53:22.91 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 13, 2018 11:53:22.91 
+nov. 13, 2018 11:53:22.92 rc/ipc/chromium/src/chrome
+nov. 13, 2018 11:53:22.92 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 13, 2018 11:53:22.93 
+nov. 13, 2018 11:53:22.93 /common/ipc
+nov. 13, 2018 11:53:22.94 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 13, 2018 11:53:22.94 
+nov. 13, 2018 11:53:22.95 _channel_
+nov. 13, 2018 11:53:22.95 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 13, 2018 11:53:22.95 
+nov. 13, 2018 11:53:22.96 win.cc, line 3
+nov. 13, 2018 11:53:22.96 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 13, 2018 11:53:22.97 
+nov. 13, 2018 11:53:22.97 46
+nov. 13, 2018 11:53:32.84 [Parent 5016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 13, 2018 11:53:32.85 [Child 3520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 13, 2018 11:53:32.85 [Child 3520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 13, 2018 11:53:47.47 [Parent 5016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 13, 2018 11:53:47.48 [Child 10756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 13, 2018 11:58:47.59 [Child 10756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commo[Parent 5016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 13, 2018 11:58:47.61 [Child 10328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 13, 2018 11:58:47.62 [Child 10328, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 13, 2018 12:18:11.47 [Parent 5016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 13, 2018 12:18:11.48 [Child 4648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 13, 2018 13:07:55.94 [Child 4648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/b[Parent 5016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 13, 2018 13:09:43.53 [Parent 5016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 13, 2018 13:10:16.16 [Parent 5016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 13, 2018 13:10:21.17 [Parent 5016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 13, 2018 13:11:43.71 [Parent 5016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 13, 2018 13:11:43.72 [Parent 5016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 13, 2018 13:12:53.47 [Parent 5016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 13, 2018 13:13:35.74 [Parent 5016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 13, 2018 13:15:03.40 [Parent 5016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 13, 2018 13:15:11.77 [Child 10660, MediaPlayback #4] WARNING: Decoder=1c6948f1200 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SeekPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoSeek(const mozilla::media::TimeUnit &): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 13, 2018 13:15:52.72 [Parent 5016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 13, 2018 13:16:59.04 [Parent 5016, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+nov. 14, 2018 09:21:11.15 NEW SESSION
+nov. 14, 2018 09:21:11.15 [Child 9036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 09:21:11.15 [Child 9036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 09:42:15.55 [Parent 4852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 09:42:15.56 [Child 2536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 10:17:15.57 [Child 2536, Chrome_ChildThread] WARNING: pipe [Child 2668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 10:17:15.57 [Child 2668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 10:17:17.26 [Parent 4852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 10:17:17.28 [Child 11620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 10:17:43.04 [Child 11620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/c[Parent 4852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 10:17:43.05 [Child 7872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 10:17:43.05 [Child 7872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrom[Child 5496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 10:17:43.05 [Child 5496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 10:17:43.07 [Child 7280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 10:17:43.15 [Child 7280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, li[GPU 6296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 10:17:43.18 
+nov. 14, 2018 10:17:43.18 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 14, 2018 10:17:43.18 
+nov. 14, 2018 10:33:56.15 [Parent 6704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 10:33:56.16 [Child 3936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 10:44:50.50 [Child 3936, Chrome_ChildThread] WARNING: pipe error: 109: fiIPDL protocol error: Handler returned error code!
+nov. 14, 2018 10:44:50.50 
+nov. 14, 2018 10:44:50.52 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 14, 2018 10:44:50.52 
+nov. 14, 2018 10:46:20.93 [Parent 6704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 10:46:20.94 [Child 3432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 10:46:20.94 [Child 3432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 11:07:33.11 _create_dc_and_bitmap: La operación se completó correctamente.
+nov. 14, 2018 11:07:33.13 
+nov. 14, 2018 11:07:33.14 _create_dc_and_bitmap: Controlador no válido.
+nov. 14, 2018 11:07:33.18 
+nov. 14, 2018 11:07:33.18 _create_dc_and_bitmap: Controlador no válido.
+nov. 14, 2018 11:07:33.19 
+nov. 14, 2018 11:41:53.94 [Child 8804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 11:43:07.51 [Child 8804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/b[Child 8504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 11:44:30.40 [Child 8504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/[Child 9564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 11:44:42.13 [Child 9564, Chrome_ChildThread] WARNING: pipe e[Parent 6704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 11:44:42.14 [Child 944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 11:44:42.15 [Child 944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 12:47:43.68 [Parent 6704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 12:50:29.19 [Parent 6704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 13:07:11.43 [Parent 6704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 14:19:48.58 [Parent 6704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 14:19:48.58 [Parent 6704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 14:19:48.60 [Parent 6704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 15:10:46.07 [Parent 6704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 15:10:46.08 [Parent 6704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 15:10:46.08 [Parent 6704, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 15:10:46.10 [Child 5400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 15:10:46.10 [Child 5400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 15:10:46.11 [Child 8632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 15:10:46.11 [Child 8632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_chann[Child 9480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 15:10:46.13 [Child 6192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 15:10:46.19 [Child 6192, Chrome_ChildTh
+nov. 14, 2018 15:10:46.21 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 14, 2018 15:10:46.21 
+nov. 14, 2018 15:10:46.21 [GPU 6984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 14, 2018 15:10:46.36 
+nov. 14, 2018 15:10:46.38 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 14, 2018 15:10:46.38 
+
+nov. 15, 2018 09:52:10.87 NEW SESSION
+nov. 15, 2018 09:52:10.88 [Parent 7208, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 15, 2018 09:52:10.89 [Child 1736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 15, 2018 09:52:10.89 [Child 1736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 15, 2018 10:11:29.04 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 10:11:29.05 
+nov. 15, 2018 10:11:29.05 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 10:11:29.06 
+nov. 15, 2018 10:24:34.92 [Child 7484, MediaPlayback #2] WARNING: Decoder=1c1f487f010 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:24:34.93 [Child 7484, MediaPlayback #3] WARNING: Decoder=1c1f487f010 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:24:34.94 [Child 7484, MediaPlayback #2] WARNING: Decoder=1c1f487f010 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:24:34.96 [Child 7484, MediaPlayback #2] WARNING: Decoder=1c1f487f010 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:24:34.96 [Child 7484, MediaPlayback #3] WARNING: Decoder=1c1f487f010 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:24:34.98 [Child 7484, MediaPlayback #1] WARNING: Decoder=1c1f487f010 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:24:34.99 [Child 7484, MediaPlayback #3] WARNING: Decoder=1c1f487f010 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:24:35.00 [Child 7484, MediaPlayback #1] WARNING: Decoder=1c1f487f010 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:24:35.02 [Child 7484, MediaPlayback #1] WARNING: Decoder=1c1f487f010 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:24:35.04 [Child 7484, MediaPlayback #3] WARNING: Decoder=1c1f487f010 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:24:35.06 [Child 7484, MediaPlayback #3] WARNING: Decoder=1c1f487f010 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:24:35.08 [Child 7484, MediaPlayback #3] WARNING: Decoder=1c1f487f010 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:24:35.10 [Child 7484, MediaPlayback #2] WARNING: Decoder=1c1f487f010 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:24:35.12 [Child 7484, MediaPlayback #3] WARNING: Decoder=1c1f487f010 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:24:35.14 [Child 7484, MediaPlayback #3] WARNING: Decoder=1c1f487f010 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:24:35.16 [Child 7484, MediaPlayback #3] WARNING: Decoder=1c1f487f010 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:24:35.18 [Child 7484, MediaPlayback #3] WARNING: Decoder=1c1f487f010 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:24:35.20 [Child 7484, MediaPlayback #3] WARNING: Decoder=1c1f487f010 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:24:35.22 [Child 7484, MediaPlayback #1] WARNING: Decoder=1c1f487f010 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:24:35.24 [Child 7484, MediaPlayback #1] WARNING: Decoder=1c1f487f010 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:25:15.87 [Parent 7208, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 15, 2018 10:27:07.99 [Parent 7208, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 15, 2018 10:27:08.00 [Child 6052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 15, 2018 10:27:08.46 [Child 6052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chr[Parent 7208, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 15, 2018 10:27:08.47 [Child 6944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 15, 2018 10:43:30.96 [Child 6944, Chrome_ChildThread] WARNING: pipe er[Child 6800, MediaPlayback #3] WARNING: Decoder=1ce48611a40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:43:30.97 [Child 6800, MediaPlayback #1] WARNING: Decoder=1ce48611a40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:43:30.98 [Child 6800, MediaPlayback #1] WARNING: Decoder=1ce48611a40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:43:31.00 [Child 6800, MediaPlayback #3] WARNING: Decoder=1ce48611a40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:43:31.00 [Child 6800, MediaPlayback #2] WARNING: Decoder=1ce48611a40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:43:31.02 [Child 6800, MediaPlayback #2] WARNING: Decoder=1ce48611a40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:43:31.03 [Child 6800, MediaPlayback #1] WARNING: Decoder=1ce48611a40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:43:31.04 [Child 6800, MediaPlayback #1] WARNING: Decoder=1ce48611a40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:43:31.06 [Child 6800, MediaPlayback #1] WARNING: Decoder=1ce48611a40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:43:31.08 [Child 6800, MediaPlayback #1] WARNING: Decoder=1ce48611a40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:43:31.10 [Child 6800, MediaPlayback #2] WARNING: Decoder=1ce48611a40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:43:31.12 [Child 6800, MediaPlayback #2] WARNING: Decoder=1ce48611a40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:43:31.14 [Child 6800, MediaPlayback #3] WARNING: Decoder=1ce48611a40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:43:31.16 [Child 6800, MediaPlayback #2] WARNING: Decoder=1ce48611a40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:43:31.18 [Child 6800, MediaPlayback #2] WARNING: Decoder=1ce48611a40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:43:31.20 [Child 6800, MediaPlayback #2] WARNING: Decoder=1ce48611a40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:43:31.22 [Child 6800, MediaPlayback #3] WARNING: Decoder=1ce48611a40 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file z:/build/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+nov. 15, 2018 10:43:44.07 [Parent 7208, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 15, 2018 10:49:38.12 [Parent 7208, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 15, 2018 12:22:28.89 [Parent 7208, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 15, 2018 12:22:28.90 [Child 6800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 15, 2018 12:22:28.90 [Child 2852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 15, 2018 12:22:28.92 [Child [Parent 7208, Gecko_IOThread] WARNING: pipe 2error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 15, 2018 12:22:28.92 [Parent 7208, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 15, 2018 12:22:28.94 [Parent 7208, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 15, 2018 12:22:28.94 [Child 5984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 15, 2018 12:22:28.94 [Child 5984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 15, 2018 12:22:28.95 [Child 7484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 15, 2018 12:22:28.98 [Child 7484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/sr
+nov. 15, 2018 12:22:29.00 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 15, 2018 12:22:29.00 
+nov. 15, 2018 12:22:29.01 [GPU 10304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 15, 2018 12:22:29.15 
+nov. 15, 2018 12:22:29.15 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 15, 2018 12:22:29.15 
+nov. 15, 2018 13:02:23.63 [Parent 812, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 15, 2018 13:02:23.64 [Child 9608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 15, 2018 13:02:24.77 [Child 9608, Chrome_ChildThread] W[Parent 812, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 15, 2018 13:02:24.78 [Child 5528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 15, 2018 13:55:46.07 [Child 5528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 3[Child 2036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+nov. 15, 2018 14:38:48.95 [Child 2036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/co_create_dc_and_bitmap: La operación se completó correctamente.
+nov. 15, 2018 14:38:48.96 
+nov. 15, 2018 14:38:48.98 _create_dc_and_bitmap: Controlador no válido.
+nov. 15, 2018 14:38:48.99 
+nov. 15, 2018 14:38:48.99 _create_dc_and_bitmap: Controlador no válido.
+nov. 15, 2018 14:38:49.01 
+nov. 15, 2018 14:38:49.03 _create_dc_and_bitmap: Controlador no válido.
+nov. 15, 2018 14:38:49.03 
+nov. 15, 2018 14:38:49.03 _create_dc_and_bitmap: Controlador no válido.
+nov. 15, 2018 14:38:49.03 
+nov. 15, 2018 14:38:49.04 _create_dc_and_bitmap: Controlador no válido.
+nov. 15, 2018 14:38:49.04 
+nov. 15, 2018 14:38:49.04 _create_dc_and_bitmap: Controlador no válido.
+nov. 15, 2018 14:38:49.04 
+nov. 15, 2018 14:38:49.06 _create_dc_and_bitmap: Controlador no válido.
+nov. 15, 2018 14:38:49.06 
+nov. 15, 2018 14:38:57.26 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 14:38:57.27 
+nov. 15, 2018 14:38:57.27 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 14:38:57.27 
+nov. 15, 2018 14:39:38.42 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 14:39:38.42 
+nov. 15, 2018 14:39:38.42 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 14:39:38.42 
+nov. 15, 2018 14:40:01.70 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 14:40:01.71 
+nov. 15, 2018 14:40:01.71 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 14:40:01.71 
+nov. 15, 2018 14:40:26.41 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 14:40:26.43 
+nov. 15, 2018 14:40:26.43 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 14:40:26.43 
+nov. 15, 2018 14:53:01.91 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 14:53:01.91 
+nov. 15, 2018 14:53:01.91 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 14:53:01.93 
+nov. 15, 2018 14:53:02.47 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 14:53:02.47 
+nov. 15, 2018 14:53:02.47 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 14:53:02.49 
+nov. 15, 2018 14:53:02.77 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 14:53:02.77 
+nov. 15, 2018 14:53:02.77 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 14:53:02.79 
+nov. 15, 2018 14:53:33.14 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 14:53:33.14 
+nov. 15, 2018 14:53:33.14 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 14:53:33.15 
+nov. 15, 2018 14:53:33.53 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 14:53:33.53 
+nov. 15, 2018 14:53:33.53 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 14:53:33.54 
+nov. 15, 2018 14:53:33.84 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 14:53:33.86 
+nov. 15, 2018 14:53:33.86 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 14:53:33.86 
+nov. 15, 2018 14:54:20.80 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 14:54:20.80 
+nov. 15, 2018 14:54:20.81 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 14:54:20.81 
+nov. 15, 2018 14:54:21.41 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 14:54:21.41 
+nov. 15, 2018 14:54:21.41 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 14:54:21.42 
+nov. 15, 2018 14:54:35.04 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 14:54:35.04 
+nov. 15, 2018 14:54:35.04 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 14:54:35.04 
+nov. 15, 2018 14:54:35.47 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 14:54:35.47 
+nov. 15, 2018 14:54:35.48 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 14:54:35.48 
+nov. 15, 2018 14:55:20.02 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 14:55:20.03 
+nov. 15, 2018 14:55:20.03 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 14:55:20.03 
+nov. 15, 2018 14:55:20.28 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 14:55:20.30 
+nov. 15, 2018 14:55:20.30 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 14:55:20.30 
+nov. 15, 2018 14:55:20.55 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 14:55:20.55 
+nov. 15, 2018 14:55:20.56 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 14:55:20.56 
+nov. 15, 2018 14:56:13.86 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 14:56:13.86 
+nov. 15, 2018 14:56:13.88 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 14:56:13.88 
+nov. 15, 2018 14:56:14.16 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 14:56:14.17 
+nov. 15, 2018 14:56:14.17 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 14:56:14.17 
+nov. 15, 2018 14:56:15.03 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 14:56:15.05 
+nov. 15, 2018 14:56:15.05 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 14:56:15.05 
+nov. 15, 2018 14:56:24.43 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 14:56:24.44 
+nov. 15, 2018 14:56:24.44 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 14:56:24.44 
+nov. 15, 2018 14:56:42.16 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 14:56:42.16 
+nov. 15, 2018 14:56:42.16 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 14:56:42.16 
+nov. 15, 2018 14:56:42.55 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 14:56:42.55 
+nov. 15, 2018 14:56:42.55 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 14:56:42.57 
+nov. 15, 2018 14:56:43.04 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 14:56:43.05 
+nov. 15, 2018 14:56:43.05 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 14:56:43.05 
+nov. 15, 2018 14:56:44.01 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 14:56:44.01 
+nov. 15, 2018 14:56:44.01 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 14:56:44.02 
+nov. 15, 2018 14:57:20.53 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 14:57:20.53 
+nov. 15, 2018 14:57:20.53 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 14:57:20.55 
+nov. 15, 2018 14:57:30.76 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 14:57:30.76 
+nov. 15, 2018 14:57:30.76 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 14:57:30.78 
+nov. 15, 2018 14:58:20.03 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 14:58:20.05 
+nov. 15, 2018 14:58:20.05 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 14:58:20.05 
+nov. 15, 2018 14:58:20.59 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 14:58:20.59 
+nov. 15, 2018 14:58:20.59 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 14:58:20.61 
+nov. 15, 2018 14:59:17.91 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 14:59:17.91 
+nov. 15, 2018 14:59:17.91 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 14:59:17.91 
+nov. 15, 2018 15:00:08.99 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 15:00:09.01 
+nov. 15, 2018 15:00:09.01 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 15:00:09.01 
+nov. 15, 2018 15:00:17.96 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 15:00:17.96 
+nov. 15, 2018 15:00:17.96 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 15:00:17.96 
+nov. 15, 2018 15:01:24.63 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 15:01:24.63 
+nov. 15, 2018 15:01:24.63 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 15:01:24.65 
+nov. 15, 2018 15:01:25.17 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 15:01:25.17 
+nov. 15, 2018 15:01:25.18 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 15:01:25.18 
+nov. 15, 2018 15:02:14.43 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 15:02:14.43 
+nov. 15, 2018 15:02:14.45 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 15:02:14.45 
+nov. 15, 2018 15:02:29.63 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 15:02:29.63 
+nov. 15, 2018 15:02:29.65 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 15:02:29.65 
+nov. 15, 2018 15:03:25.33 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 15:03:25.33 
+nov. 15, 2018 15:03:25.33 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 15:03:25.35 
+nov. 15, 2018 15:03:30.33 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 15:03:30.33 
+nov. 15, 2018 15:03:30.33 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 15:03:30.34 
+nov. 15, 2018 15:03:48.64 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 15:03:48.64 
+nov. 15, 2018 15:03:48.64 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 15:03:48.64 
+nov. 15, 2018 15:04:00.35 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 15:04:00.35 
+nov. 15, 2018 15:04:00.35 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 15:04:00.37 
+nov. 15, 2018 15:04:19.83 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 15:04:19.85 
+nov. 15, 2018 15:04:19.85 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 15:04:19.85 
+nov. 15, 2018 15:05:00.72 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 15:05:00.72 
+nov. 15, 2018 15:05:00.72 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 15:05:00.72 
+nov. 15, 2018 15:05:06.63 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 15:05:06.65 
+nov. 15, 2018 15:05:06.65 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 15:05:06.65 
+nov. 15, 2018 15:05:06.99 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 15:05:07.01 
+nov. 15, 2018 15:05:07.01 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 15:05:07.01 
+nov. 15, 2018 15:05:23.16 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 15:05:23.16 
+nov. 15, 2018 15:05:23.16 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 15:05:23.16 
+nov. 15, 2018 15:06:36.16 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 15:06:36.16 
+nov. 15, 2018 15:06:36.16 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 15:06:36.16 
+nov. 15, 2018 15:06:46.71 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 15:06:46.71 
+nov. 15, 2018 15:06:46.71 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 15:06:46.71 
+nov. 15, 2018 15:06:56.05 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 15:06:56.05 
+nov. 15, 2018 15:06:56.05 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 15:06:56.06 
+nov. 15, 2018 15:07:18.98 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 15:07:18.98 
+nov. 15, 2018 15:07:18.98 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 15:07:18.98 
+nov. 15, 2018 15:07:31.11 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 15:07:31.11 
+nov. 15, 2018 15:07:31.12 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 15:07:31.12 
+nov. 15, 2018 15:07:52.87 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 15:07:52.87 
+nov. 15, 2018 15:07:52.89 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 15:07:52.89 
+nov. 15, 2018 15:08:02.95 IPDL protocol error: Handler returned error code!
+nov. 15, 2018 15:08:02.97 
+nov. 15, 2018 15:08:02.97 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+nov. 15, 2018 15:08:02.97 

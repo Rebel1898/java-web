@@ -1,0 +1,20 @@
+package com.sls.models;
+
+public class Room {
+	
+
+	
+	private int hid;
+	private String calle;
+	private int metros;
+	
+	
+	public Room(int hid, String calle, int metros) {
+		super();
+		this.hid = hid;
+		this.calle = calle;
+		this.metros = metros;
+	}
+	
+
+}

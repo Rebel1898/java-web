@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\Users\Arranque 1\SLS\Java web\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\486830067.index
+\Hellomvc\src
+C:\Users\Arranque 1\SLS\Java web\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1607833414.index
+\Hellomvc\src
+C:\Users\Arranque 1\SLS\Java web\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4155028755.index
+\Ejemplo ricardo Junior habitacion y usuario\src
+C:\Users\Arranque 1\SLS\Java web\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1887873950.index
+\ProyectoMVC2\src

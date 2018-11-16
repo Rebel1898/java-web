@@ -1,0 +1,23 @@
+package com.sls.models;
+
+public class Room {
+	
+
+	
+	public int hid;
+	public String calle;
+	public String surface;
+	/**
+	 * @param id
+	 * @param name
+	 * @param email
+	 */
+	public Usuario(int id, String name, String email) {
+		super();
+		this.id = id;
+		this.name = name;
+		this.email = email;
+	}
+	
+
+}

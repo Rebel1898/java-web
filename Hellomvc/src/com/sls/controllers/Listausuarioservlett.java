@@ -1,0 +1,73 @@
+package com.sls.controllers;
+
+import java.io.IOException;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
+
+import com.sls.database.DBDD;
+import com.sls.models.Usuario;
+
+
+@WebServlet("/listado")
+public class Listausuarioservlett extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+       
+   
+    public Listausuarioservlett() {
+        super();
+        // TODO Auto-generated constructor stub
+    }
+
+    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		
+		/*Usuario juan =new Usuario (1,"Juan","juan@it.it",10);
+		Usuario maria =new Usuario (2,"Maria","mario@it.it",20);
+		Usuario paco =new Usuario (3,"paco","paco@it.it",30);
+		*/
+		
+    	
+    	
+HttpSession session = request.getSession();
+		
+		if( session.getAttribute("usuario")!=null) {
+			
+
+			DBDD dbdd = DBDD.getinstance();
+			
+			request.setAttribute("losUsuarios",dbdd.usuarios);
+			
+			
+	      request.getRequestDispatcher("./listausuarios.jsp").forward(request,response);
+			
+			
+		}
+		
+		
+		else {
+			response.sendRedirect("Login");
+		}
+		
+
+      
+      
+
+		
+           
+		/*response.getWriter().append("Nombre de usuario  "+ juan.name + " " ).append(request.getContextPath());
+	*/
+		}
+
+	/**
+	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		doGet(request, response);
+
+	}
+}

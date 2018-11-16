@@ -1,0 +1,28 @@
+package com.sls.database;
+
+import java.util.ArrayList;
+import com.sls.models.Usuario;
+import com.sls.models.Room;
+
+
+public class BBDB {
+
+	public ArrayList<Usuario> usuario = new ArrayList<Usuario>();
+	public ArrayList<Room> room = new ArrayList<Room>() ;
+	
+	private boolean fillUsuarios() {
+		usuarios.add(new Usuario(1,"Pepe","p@p.es",null));
+		usuarios.add(new Usuario(2,"Pepe","p@p.es",null));
+		usuarios.add(new Usuario(3,"Pepe","p@p.es",null));
+
+		return true;
+	}
+
+	private boolean fillhabitaciones() {
+		
+		habitaciones.add(new Habitaciones1,'Marques de la puta',256;
+		
+		return true;
+	}
+	
+}
