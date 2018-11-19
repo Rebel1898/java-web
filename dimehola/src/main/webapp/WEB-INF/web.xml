@@ -1,0 +1,15 @@
+
+
+<web-app version="3.1">
+  <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+  	<servlet-name>Dimehola</servlet-name>
+  	<display-name>Dimehola</display-name>
+  	<description></description>
+  	<servlet-class>com.models.sls.Dimehola</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>Dimehola</servlet-name>
+  	<url-pattern>/hola</url-pattern>
+  </servlet-mapping>
+</web-app>

@@ -1,0 +1,18 @@
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+  	<servlet-name>AmigoServlett</servlet-name>
+  	<display-name>AmigoServlett</display-name>
+  	<description></description>
+  	<servlet-class>com.sls.servlett.AmigoServlett</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>AmigoServlett</servlet-name>
+  	<url-pattern>/amigo</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>AmigoServlett</servlet-name>
+  	<url-pattern>/Amigo</url-pattern>
+  </servlet-mapping>
+</web-app>

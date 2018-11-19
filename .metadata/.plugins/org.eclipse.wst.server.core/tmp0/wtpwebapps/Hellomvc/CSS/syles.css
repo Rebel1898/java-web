@@ -26,3 +26,17 @@ display:inline-block;
 margin:1em;
 	
 }
+
+.error{
+	
+	color:red;
+	
+}
+
+#emailmal{
+		color:red;
+	
+	
+}
+
+.esconder{display: none;}

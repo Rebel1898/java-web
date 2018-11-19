@@ -22,6 +22,13 @@
 		</list>
 	</section>
 	<section name="NewWizardAction">
+		<item value="org.eclipse.jst.servlet.ui.internal.wizard.AddServletWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jpt.dbws"/>
+			<item value="org.eclipse.wst.server.ui"/>
+			<item value="org.eclipse.wst.web.ui"/>
+			<item value="org.eclipse.jst.ws.ui.new"/>
+		</list>
 	</section>
 	<section name="FileSystemExportWizard">
 		<item value="false" key="WizardFileSystemResourceExportPage1.STORE_OVERWRITE_EXISTING_FILES_ID"/>
